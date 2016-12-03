@@ -1,0 +1,72 @@
+nav {
+  text-align: center;
+
+}
+
+nav a {
+  padding:30px;
+  float:left;
+}
+
+ul {
+  background: limegreen;
+  color:red;
+  margin:auto;
+}
+
+li {
+  display:inline-block;
+  font-size:30px;
+
+}
+
+h1,h2 {
+  color:limegreen;
+}
+
+a {
+  text-decoration: none;
+  text-align:center;
+}
+
+a:hover {
+  color:red;
+}
+
+header {
+  background: red;
+  text-align: center;
+  margin:0 auto;
+  width:100%;
+  top:0;
+}
+
+section {
+  width:50%;
+  margin:0 auto;
+}
+
+article {
+  text-indent:50px;
+}
+body {
+  background:lightblue;
+}
+
+p {
+font-size: 26px;
+
+}
+
+.closing{
+  line-height:.2;
+}
+
+#relate{
+  text-align:center;
+}
+
+footer {
+  text-align: center;
+  padding: 50px;
+}
